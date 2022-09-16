@@ -23,6 +23,7 @@ function reducer(state, { type, payload }) {
     default:
       return {
         // currentOperand: `${currentOperand}`,
+        // example comment
       };
   }
 }
